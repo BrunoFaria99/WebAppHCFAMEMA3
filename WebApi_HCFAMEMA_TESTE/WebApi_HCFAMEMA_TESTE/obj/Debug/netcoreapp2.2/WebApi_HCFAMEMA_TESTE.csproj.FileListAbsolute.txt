@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\bin\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.deps.json
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\bin\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\bin\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\bin\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.dll
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\bin\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.pdb
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.RazorAssemblyInfo.cache
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.RazorAssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.RazorTargetAssemblyInfo.cache
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.dll
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.pdb
+C:\Users\T-Gamer\source\repos\WebApi_HCFAMEMA_TESTE\WebApi_HCFAMEMA_TESTE\obj\Debug\netcoreapp2.2\WebApi_HCFAMEMA_TESTE.csprojAssemblyReference.cache
